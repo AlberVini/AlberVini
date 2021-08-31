@@ -1,6 +1,6 @@
 ### Hi There, I'm Vinicius and welcome to my profile xD
 ---
-💻 **Programming | 🖤 Music | 🎥 Anime**
+💻 **Programming | 🎵 Music | 🎥 Animes**
 
 - 🔭 I’m currently studing Computer Science.
 - 🌱 I’m currently learning Django Framework | Full Stack Web development | Data Structures
